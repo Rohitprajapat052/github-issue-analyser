@@ -456,6 +456,3 @@ For issues or questions about this project:
 
 ---
 
-**Author:** Rohit Prajapat
-**Purpose:** Technical Assessment / Interview Assignment
-**Date:** February 2026
